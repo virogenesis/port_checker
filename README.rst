@@ -20,8 +20,8 @@ Port Checker
 
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
-
+The idea behind this command line tool is to check if a port is open on a host.
+Really, really
 
 * Free software: MIT license
 * Documentation: https://port-checker.readthedocs.io.
